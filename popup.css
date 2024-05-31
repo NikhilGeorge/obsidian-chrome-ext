@@ -1,0 +1,22 @@
+/* popup.css */
+body {
+    font-family: Arial, sans-serif;
+    width: 200px;
+    padding: 10px;
+  }
+  
+  .container {
+    display: flex;
+    flex-direction: column;
+  }
+  
+  label {
+    margin-top: 10px;
+  }
+  
+  input[type="text"] {
+    margin-top: 5px;
+    padding: 5px;
+    font-size: 14px;
+  }
+  
